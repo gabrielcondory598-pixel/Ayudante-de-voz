@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Asistente de Voz</string>
+    <string name="accesibilidad_desc">Solo se usa dentro de WhatsApp: toca el botón de enviar cuando le pedís al asistente que mande un mensaje, y vuelve atrás después.</string>
+</resources>
